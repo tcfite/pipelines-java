@@ -1,3 +1,4 @@
+[![Build Status](https://burnsmcd.visualstudio.com/BTS-Goshawk/_apis/build/status/tcfite.pipelines-java?branchName=master)](https://burnsmcd.visualstudio.com/BTS-Goshawk/_build/latest?definitionId=97&branchName=master)
 
 # Contributing
 
